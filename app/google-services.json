@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "838950186611",
+    "firebase_url": "https://chathichem-b43cd.firebaseio.com",
+    "project_id": "chathichem-b43cd",
+    "storage_bucket": "chathichem-b43cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838950186611:android:3a7682c2c108cbbb5e8406",
+        "android_client_info": {
+          "package_name": "com.example.chathichem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838950186611-vjhvhuk0jh27h2u0dlp2609qqm7gs27n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJnVpMH1unod3FnFxJ1Nf_6Fx60Quinzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838950186611-vjhvhuk0jh27h2u0dlp2609qqm7gs27n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
